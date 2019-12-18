@@ -23,11 +23,6 @@ Place Pulse is a website that allows anybody to quickly run a crowdsourced study
 * 3.change the number of point you want to download in zhuaqu.py(streetscore_boston.csv has 229565 points. Up to 2018.06.04, i have upload pictures from No.160000 to No.160252)
 * 4.pyhon zhuaqu.py
 >Try the steps again using VPN when errors appear<br>
->For example:16000.jpg
-
-<div align=center><img style="width:100%;max-width:100%" src="https://github.com/whubaichuan/Download_Google_StreetView/blob/master/photo/160000.jpg" /></div>
-
-![](https://github.com/whubaichuan/Download_Google_StreetView/blob/master/photo/160000.jpg)
 
 ## 6.Wait for improvement
 * No access, ip is forbidden 
