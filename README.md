@@ -25,7 +25,7 @@ Place Pulse is a website that allows anybody to quickly run a crowdsourced study
 * Try the steps again using VPN when errors appear<br>
 * For example:16000.jpg
 
-<div align=center><img src="/photo/160000.jpg" width="600"/></div>
+<div align=center><img src="photo/160000.jpg" /></div>
 
 ## Wait for improvement
 * No access, ip is forbidden 
