@@ -1,8 +1,9 @@
-# Join us in Downloading Google StreetView
+# Join Us in Downloading Google StreetView
 ---
 ## 1.What is Download-StreetView
 Download-StreetView is initiated by a student who want to get the google streetview pictures to do more research.But obviously the student can not download the whole google streetview pictures because it is so large.
 The student make a campaign what hope that more people can join in this.
+> Reference Website about this campaign in chinese: [Link](https://zhuanlan.zhihu.com/p/34967038).
 ## 2.What you need to do?
 * download pictures
 * upload pictures
@@ -23,7 +24,8 @@ Place Pulse is a website that allows anybody to quickly run a crowdsourced study
 * 4.pyhon zhuaqu.py
 * Try the steps again using VPN when errors appear<br>
 * For example:16000.jpg
-* ![](https://github.com/whubaichuan/Download-StreetView/blob/master/photo/160000.jpg)  
+
+![](https://github.com/whubaichuan/Download-StreetView/blob/master/photo/160000.jpg)  
 ## Wait for improvement
 * No access, ip is forbidden 
 * SSL error
